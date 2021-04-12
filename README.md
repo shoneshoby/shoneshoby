@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shoneshoby
 - 👀 I’m interested in being a software engineer
 - 🌱 I’m currently learning java
-- 💞️ My Dream would be to be software engineer in Google or Javao
+- 💞️ My Dream is to be a software engineer in Google or Tesla
 - 📫 You can reach me on shoneshoby@gmail.com
 
 <!---
